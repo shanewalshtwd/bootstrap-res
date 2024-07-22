@@ -99,7 +99,7 @@ body{
     height: 100%;
     width: 100%;
   /* it will start from top left corner */
-    background-image: url(../pro/image/IMG_4159.jpg);
+    background-image: url(/image/IMG_4159.jpg);
     z-index: -1;
     background-size: cover;    /* correct fill of image else it will zoom*/
     background-position: center;   /* wrongly position */
